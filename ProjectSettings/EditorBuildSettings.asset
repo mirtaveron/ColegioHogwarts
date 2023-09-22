@@ -4,5 +4,44 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MenuInicio.unity
+    guid: f061091bf9d343c48a785c440572efa3
+  - enabled: 1
+    path: Assets/Scenes/MenuCasas.unity
+    guid: 5c30b633ad5a8354183f623a648306c4
+  - enabled: 1
+    path: Assets/Scenes/MenuProfesores.unity
+    guid: b0a45c65b5e8d6d4ba3001de62195a5a
+  - enabled: 1
+    path: Assets/Scenes/MenuMaterias.unity
+    guid: f7db396efbd85724bb83d8e9697cfdc8
+  - enabled: 1
+    path: Assets/Scenes/MenuAlumnos.unity
+    guid: 6bc123631ae4235498bd53eda5787dbb
+  - enabled: 1
+    path: Assets/Scenes/EditarCasa.unity
+    guid: e9e36b9c6c1d4b64e941f281fa36497e
+  - enabled: 1
+    path: Assets/Scenes/EditarProfesor.unity
+    guid: 594b426637855b8449890cecc60445de
+  - enabled: 1
+    path: Assets/Scenes/CrearProfesor.unity
+    guid: f168a5d240db66c489043a6c726daf8a
+  - enabled: 1
+    path: Assets/Scenes/CrearAlumno.unity
+    guid: 2e452601ecaa7b941b6efb4fa5705d76
+  - enabled: 1
+    path: Assets/Scenes/EditarAlumno.unity
+    guid: c9e5e18d1942d1d498f0502cf3dc6160
+  - enabled: 1
+    path: Assets/Scenes/EditarColegio.unity
+    guid: 6192afd07c6a19c4b9cb40035cf313b0
+  - enabled: 1
+    path: Assets/Scenes/CrearMateria.unity
+    guid: 83a6322408e03b14e9158c8850f8dff6
+  - enabled: 1
+    path: Assets/Scenes/EditarMateria.unity
+    guid: e5cd5043bcc1fbc40bce338062504a11
   m_configObjects: {}
